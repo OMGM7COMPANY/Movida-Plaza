@@ -433,7 +433,7 @@ window.onload = function() {
 			Fancybox.getInstance().close();
             const fancybox = new Fancybox([
               {
-                src: "<div><h2>Отправлено!</h2><p>Мы перезвоним Вам в ближайшее время</p></div>",
+                src: "<div><h2>Göndərildi!</h2><p>Tezliklə sizə zəng edəcəyik</p></div>",
                 type: "html",
               },
             ]);
